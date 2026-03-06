@@ -29,7 +29,7 @@ Em ambos os repositórios, o arquivo `HR-Employee-Attrition.csv` está incluso p
 
 Este app foi construído com **Streamlit** e oferece recursos para explorar os dados de forma dinâmica:
 
-- **Carregamento e configuração inicial** – upload de CSV, seleção da coluna alvo e classificação inteligente das variáveis (categóricas vs. numéricas) com limiar de cardinalidade ajustável.
+- **Carregamento e configuração inicial** – upload de CSV, seleção da coluna alvo e classificação inteligente das variáveis (categóricas vs. numéricas) com limiar de cardinalidade ajustável. Arquivo CSV disponibilizado no repositório
 - **Seleção flexível de variáveis** – escolha quais colunas analisar.
 - **Visualizações para variáveis categóricas** – gráficos de barras com proporção de turnover por categoria.
 - **Visualizações para variáveis numéricas** – dois modos: gráficos absolutos (boxplots/violinplots) e gráficos normalizados (KDE + histograma de proporções), além de análise de risco por quartil.
