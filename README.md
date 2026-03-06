@@ -80,6 +80,7 @@ Este app também é desenvolvido em **Streamlit** e permite prever a probabilida
 **Render:** Host online com planos gratuitos, utilizado neste projeto para que o usuário não necessite executar o script localmente
 
 **Link para EDA Interativo:** https://data-analysis-ibm-attrition.onrender.com/
+
 **Link para Modelo Predítivo:** https://ibm-attrition-model.onrender.com
 
 ---
